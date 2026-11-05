@@ -1,0 +1,6 @@
+{
+  "name": "Pragati Engineering College – ExamSeat Pro Seating System",
+  "description": "Pragati Engineering College (Autonomous) Automatic Exam Seating Arrangement System with 4 blocks (30 rooms each), 4 columns x 6 benches layout, officer login, and instant exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
